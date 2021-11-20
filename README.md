@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ritez
-- 👀 I’m interested in cybersecurity and networking
-- 🌱 I’m currently learning ethicalhacking
+- 👀 I’m interested in web develpment ,Networing
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
